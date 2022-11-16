@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniket
+- 👋 Hi, It's Aniket
 
 - 👀 I’m interested in Learning and Contributing in Open Source
 - 🌱 I’m currently learning DevOps and DSA. If you have any projects or tasks related to this, feel free to connect with me.
