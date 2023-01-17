@@ -1,7 +1,8 @@
-- 👋 Hi, It's Aniket
+- <h1>👋 Hi, It's Aniket</h1>
 
 - 👀 I’m interested in Learning and Contributing in Open Source
 - 🌱 I’m currently learning DevOps and DSA. If you have any projects or tasks related to this, feel free to connect with me.
+
 
 
 <!---
