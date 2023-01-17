@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in Learning and Contributing in Open Source
 - 🌱 I’m currently learning DevOps and DSA. If you have any projects or tasks related to this, feel free to connect with me.
+- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketNS&show_icons=true&theme=synthwave)
 
 
 
