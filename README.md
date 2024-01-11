@@ -1,7 +1,7 @@
 - <h1>👋 Hi, It's Aniket</h1>
 
 - 👀 I’m interested in Learning and Contributing in Open Source
-- 🌱 I’m currently learning DevOps and DSA. If you have any projects or tasks related to this, feel free to connect with me.
+- 🌱 I’m currently learning DevOps.
 - 📫 How you can reach me? 👉🏻
 <a href="https://twitter.com/AniketNShitole"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aniketnshitole/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,7 +14,7 @@
 
 ---
 
-#### ⚡ When I don't code : **Gym, Reading, Traveling**
+#### ⚡ When I don't code : **Excercise, Reading, Traveling**
 
 ---
 
