@@ -14,7 +14,7 @@
 
 ---
 
-#### ⚡ When I don't code : **Excercise, Reading, Traveling**
+#### ⚡ When I don't code : **Excercise, Reading **
 
 ---
 
